@@ -30,3 +30,7 @@ to enable modern standy if needed:
 ```
 reg delete "HKLM\System\CurrentControlSet\Control\Power" /v PlatformAoAcOverride /f
 ``` 
+
+## 4. UPDATE
+
+IT SUCKS AND THE FANS GO BRRRRR TO 4700 RPM AFTER WAKING UP THE MACHINE FROM SLEEP.
